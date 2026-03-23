@@ -1,0 +1,40 @@
+Title: SQL Injection - Data Retrieval via WHERE Clause
+
+Platform: PortSWigger Web Security Academy
+
+Objective: To retrieve hidden data by manipulating a SQL query in the WHERE clause.
+
+WHAT I DID: 
+    * I accessed the lab environment 
+
+    * I navigated to a product category (e.g. Accessories)
+
+    * I observed the URL parameter:
+
+       /filter?category=Accessories
+
+    * I modidified the URL to:
+
+       /filter?category=Accessories' OR 1=1 --
+
+    * I reloaded the page.
+
+RESULT: All products were dislayed, including hidden items, successfully solving the lab. 
+
+Why It Worked: The injected payload altered the SQL query logic. The condition OR 1=1 always evaluates to TRUE, causing the query to return all records instead of filtering by category.
+
+What I Learned: 
+     * SQL Injection can be used to extract hidden data
+
+     * URL parameters are common entry points for attacks.
+
+     * Improper input validation leads to data exposure.
+
+SOC Perspective:
+     A SOC Analyst could detect this through 
+
+     * Unusual URL query patterns
+
+     * Repeated manipulation of parameters
+
+     * Abnormal web traffic behaviour
