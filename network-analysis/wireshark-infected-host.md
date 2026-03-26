@@ -51,4 +51,9 @@ Early detection of such activity can help prevent further compromise or data exf
 
 ## Evidence
 
+### Infected Host Identification
 <img width="1920" height="923" alt="Screenshot_2026-03-26_14_37_07" src="https://github.com/user-attachments/assets/1af25f8f-50fb-4678-a6c9-2f92ffa0e8d5" />
+
+### Suspicious DNS Traffic
+<img width="1920" height="923" alt="Screenshot_2026-03-26_15-32-56" src="https://github.com/user-attachments/assets/aea6be47-8a5c-49dc-8235-33702ae2be11" />
+
