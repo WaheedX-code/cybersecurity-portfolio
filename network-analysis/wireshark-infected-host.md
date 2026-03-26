@@ -37,6 +37,7 @@ From a SOC analyst standpoint, this type of activity could be detected through:
 
 - Monitoring unusual DNS traffic patterns
 - Identifying repeated queries to unknown or suspicious domains
+
 - Investigating endpoints generating abnormal network behaviour
 
 Early detection of such activity can help prevent further compromise or data exfiltration.
@@ -47,3 +48,7 @@ Early detection of such activity can help prevent further compromise or data exf
 - How to identify suspicious DNS behaviour
 - How to trace network activity back to a specific host
 - The importance of traffic analysis in detecting compromised systems
+
+## Evidence
+
+<img width="1920" height="923" alt="Screenshot_2026-03-26_14_37_07" src="https://github.com/user-attachments/assets/1af25f8f-50fb-4678-a6c9-2f92ffa0e8d5" />
