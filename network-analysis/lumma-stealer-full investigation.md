@@ -72,3 +72,4 @@ This type of activity could be detected through:
 <img width="1920" height="888" alt="tcp-stream-token" src="https://github.com/user-attachments/assets/0dbfe37b-c0fb-4e77-8fb4-9a47f2c01d96" />
 
 ## Full Report
+ https://github.com/WaheedX-code/cybersecurity-portfolio/blob/main/network-analysis/SOC-Investigation-Lumma-Stealer.pdf
