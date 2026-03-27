@@ -59,3 +59,17 @@ This type of activity could be detected through:
 - How attackers use simple techniques to blend malicious traffic with normal activity
 
 ## Evidence
+
+ # Malicious Domain
+ <img width="1920" height="923" alt="pcap2" src="https://github.com/user-attachments/assets/3ebaeb0c-d7dd-43a0-9b8a-626e18eb49ea" />
+
+ # Infected Host Details
+ <img width="1920" height="923" alt="pcap2-1" src="https://github.com/user-attachments/assets/551e32b2-e84c-4123-a293-2dbbec6a9ce4" />
+
+<img width="1920" height="923" alt="pcap2-2" src="https://github.com/user-attachments/assets/b85db32a-0400-4be0-af2f-77dda2bb8caf" />
+
+# TCP Sreeam Token
+<img width="1920" height="888" alt="tcp-stream-token" src="https://github.com/user-attachments/assets/0dbfe37b-c0fb-4e77-8fb4-9a47f2c01d96" />
+
+
+
