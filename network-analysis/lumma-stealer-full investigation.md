@@ -1,4 +1,4 @@
-# Wireshark Investigation - Luma Stealer Malware Analysis
+# Wireshark Investigation - Lumma Stealer Malware Analysis
 ## Objective 
 To analyze a PCAP file using Wireshark and identify signs of Lumma Stealer malware infection, trace command-and-control (C2)communication, and extract relevant indicators of compromise(IOCs).
 
