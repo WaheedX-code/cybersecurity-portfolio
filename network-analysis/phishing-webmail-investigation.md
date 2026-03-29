@@ -172,4 +172,12 @@ It highlights the importance of behavioural analysis in detecting modern phishin
 - Malware-Traffic-Analysis.net
 - MITRE ATT&CK Framework
 
-
+## Evidence
+### TCP-STREAM
+<img width="1920" height="923" alt="tcp-stream" src="https://github.com/user-attachments/assets/cf2118d0-bd2e-40f7-a689-653f0a5f1840" />
+### POST Packet
+<img width="1920" height="923" alt="POST_packet" src="https://github.com/user-attachments/assets/d41de07d-789d-405e-b630-7647b54f65df" />
+### HTTP Request
+<img width="1920" height="923" alt="HTTP-request" src="https://github.com/user-attachments/assets/9b0f0ae6-dce0-412d-8940-1c599c3abd27" />
+### Sublime text
+<img width="1920" height="923" alt="sublime-text" src="https://github.com/user-attachments/assets/de958bc2-6736-4cbb-9f52-78cb4b48861e" />
