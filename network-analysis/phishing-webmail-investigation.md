@@ -175,10 +175,6 @@ It highlights the importance of behavioural analysis in detecting modern phishin
 - Malware-Traffic-Analysis.net
 - MITRE ATT&CK Framework
 
-## Full Investigation
-https://github.com/WaheedX-code/cybersecurity-portfolio/blob/main/network-analysis/SOC-Investigation-Phishing-Webmail.pdf
-
-
 ## Evidence
 ### TCP-STREAM
 <img width="1920" height="923" alt="tcp-stream" src="https://github.com/user-attachments/assets/cf2118d0-bd2e-40f7-a689-653f0a5f1840" />
@@ -191,3 +187,6 @@ https://github.com/WaheedX-code/cybersecurity-portfolio/blob/main/network-analys
 
 ### Sublime text
 <img width="1920" height="923" alt="sublime-text" src="https://github.com/user-attachments/assets/de958bc2-6736-4cbb-9f52-78cb4b48861e" />
+
+## Full Investigation
+https://github.com/WaheedX-code/cybersecurity-portfolio/blob/main/network-analysis/SOC-Investigation-Phishing-Webmail.pdf
