@@ -74,8 +74,11 @@ hxxps://email.procedure[.]best/management.aspx?good=admin@malware-traffic-analys
 ## Phase 3 - Network Traffic Analysis (Wireshark)
 ### Key Filters
 http.host contains "procedure"
+
 http.rquest.method == "POST"
+
 http.request 
+
 http.response
 
 ### Observed Traffic Flow
