@@ -176,7 +176,7 @@ It highlights the importance of behavioural analysis in detecting modern phishin
 - MITRE ATT&CK Framework
 
 ## Full Investigation
-
+https://github.com/WaheedX-code/cybersecurity-portfolio/blob/main/network-analysis/SOC-Investigation-Phishing-Webmail.pdf
 
 
 ## Evidence
