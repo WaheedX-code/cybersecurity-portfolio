@@ -1,7 +1,7 @@
 ## Scenario
 Analyzed Windows Security logs to investigate repeated failed login attempts suggesting a possible brute force attack targeting a local account.
 
-## Investogation Approach
+## Investigation Approach
 - Filtered logs for failed login events (Event ID 4625)
 - Identified repeated authentication failures against a specific account
 - Analyzed failure reasons to understand the nature of the login attempts
