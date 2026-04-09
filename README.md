@@ -28,4 +28,5 @@ This repository documents my hands-on learning journey, including practical labs
 To secure a cybesecurity internship or trainee role where I can apply my skills, gain real-world experience, and grow into a professional SOC Analyst.
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/waheed-mubeen-598239258
+- LinkedIn:
+  http://linkedin.com/in/mubeen-waheed-598239258
