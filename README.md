@@ -1,6 +1,6 @@
-# Cybersecurity-portfolio - SOC Analyst Path
+# Cybersecurity-portfolio - SOC Analyst
 
-Hi, I'm Waheed Mubeen, an aspiring SOC Analyst with a growing foundation in cybersecurity. 
+Hi, I'm Mubeen Waheed, an aspiring IoT/OT security specialist with a growing foundation in cybersecurity- SOC Analyst
 This repository documents my hands-on learning journey, including practical labs, network analysis, phishing email analysis, and security investigations.
 
 ## Focus Areas
@@ -25,7 +25,7 @@ This repository documents my hands-on learning journey, including practical labs
 - Building a strong cybersecurity foundation
 
 ## Goal
-To secure a cybesecurity internship or trainee role where I can apply my skills, gain real-world experience, and grow into a professional SOC Analyst.
+To secure a cybesecurity internship or trainee role where I can apply my skills, gain real-world experience, and grow into a professional IoT/OT security/ SOC Analyst
 
 ## Connect With Me
 - LinkedIn:
